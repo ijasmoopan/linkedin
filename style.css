@@ -8,6 +8,7 @@ body{
     flex-direction: column;
     align-items: center;
     font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
 }
 
 .header-left img{
