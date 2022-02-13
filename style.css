@@ -117,7 +117,7 @@ h3{
     margin-bottom: -35px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    width: 100%;
+    /* width: 100%; */
     height: 60px;
     object-fit: cover;
     
@@ -481,4 +481,14 @@ input{
 }
 .body-right-footer-2 a{
     font-size: 14px;
+}
+
+
+.post-profile{
+    width: 53px;
+    height: 53px;
+    border-radius: 70px;
+    margin-right: 0px;
+    margin-left: 10px;
+    margin-top: 5px;
 }
